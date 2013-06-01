@@ -8,7 +8,7 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="5" Created="2007-03-26 00:41:49 +0000" Modified="2013-05-31 15:09:15 +0000" Type="Text">
+                <BinderItem ID="5" Created="2007-03-26 00:41:49 +0000" Modified="2013-06-01 03:42:08 +0000" Type="Text">
                     <Title>Title Page</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -16,6 +16,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>103,103</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -391,8 +392,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="54" Created="2013-06-01 01:46:21 +0000" Modified="2013-06-01 01:47:24 +0000" Type="Folder">
-                            <Title>November 2011, Delhi</Title>
+                        <BinderItem ID="54" Created="2013-06-01 01:46:21 +0000" Modified="2013-06-01 03:35:52 +0000" Type="Folder">
+                            <Title>February 2012, Mumbai</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -401,8 +402,18 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="52" Created="2013-05-31 19:08:45 +0000" Modified="2013-06-01 01:49:51 +0000" Type="Text">
-                                    <Title>Suji writes screenplay about his encounter with Aash</Title>
+                                <BinderItem ID="52" Created="2013-05-31 19:08:45 +0000" Modified="2013-06-01 03:36:01 +0000" Type="Text">
+                                    <Title>Suji discards screenplay about his encounter with Aash</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="60" Created="2013-06-01 03:35:41 +0000" Modified="2013-06-01 03:36:49 +0000" Type="Text">
+                                    <Title>Srikanth finds the printout and forces Suji to direct it</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -652,6 +663,16 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="59" Created="2013-06-01 03:03:22 +0000" Modified="2013-06-01 03:03:22 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
