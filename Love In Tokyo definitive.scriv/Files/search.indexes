@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="0">
+            <Title>Screenplay</Title>
+        </Document>
+        <Document ID="1">
+            <Title>Research</Title>
+        </Document>
+        <Document ID="2">
+            <Title>Trash</Title>
+        </Document>
+        <Document ID="3">
+            <Title>Suji and Bahar in middle school</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Setting Sketch</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+LOVE IN TOKYO (Working Title)
+
+by
+
+Yoriko Yamamura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yoriko Yamamura
+1-514 8916-5 Takayama-cho Ikoma-shi Nara Japan
++81 90 3624 9935
+4010100@gmail.com</Text>
+        </Document>
+        <Document ID="6">
+            <Title>Character Sketch</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Sample Script</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Ashuri &quot;Aash&quot; Kanada (金田 吾須理)</Title>
+            <Synopsis>ヒロイン．外大ヒンディー語専攻．ボリウッド映画女優を目指していたが挫折して就活中にスージーと出会い，恋に落ちる．
+1年後，地元中学校の英語教師になる．夢が挫折した反動で，人生に安定を求めている．ボリウッドも，スージーも，忘れようと頑張っている．</Synopsis>
+            <Text>A 23-year-old native of Machida, now job hunting.
+Majored in Hindi at the Tokyo University of Foreign Studies in Fuchu, also in suburban Tokyo, dreaming of becoming a Bollywood star.
+Her numerous auditioning trips to Mumbai during her college years have all ended in disappointment, perhaps owing to her Japanese accent and looks.
+Tries to forget Bollywood and her dreamy romantic encounter with Suji.</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Suraj &quot;Suji&quot; Singh</Title>
+            <Synopsis>ヒーロー．渋谷系シーク教徒．アート系映画が好きな映画監督の卵．皮肉屋だけど好きな人にはナイスガイ．吾須理との恋について書いて捨てた脚本をムンバイのギャング幹部・スリカントに気に入られ，日本ロケのマサラ・ムービーを撮る羽目に．
+「僕はこんな映画撮りたくなかったんだけど...」</Synopsis>
+            <Text>An aspiring 23-year-old filmmaker originally from rural Punjab and now studying film in Delhi.
+Has come to Tokyo to shoot his final project, a short documentary on Shibuya-kei culture.
+As a teen, he had read about the Shibuya-kei movement at an Internet café in his hometown, and has been infatuated with it ever since.
+He considers himself part of Delhi’s indie film scene and scorns mainstream Bollywood film, though he is well versed in its classics.
+He is aloof and sarcastic, but can be a nice guy when he feels like it (mostly around women he likes). 
+He is liberal but also fiercely proud of his Sikh tradition. His friends marvel at his ever-tasteful turbans.
+</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Bahar Bahri</Title>
+            <Synopsis>スージーの中学時代の親友．二人でSquare Bullshit Entertainmentというユニット名で映画を撮っていた．紆余曲折を経て，今はボリウッドで映画専門の電気技師．昔からスージーのことが好きだが，男っぽいキャラなので言えないでいる．</Synopsis>
+            <Text>A 26-year-old lighting engineer and Suji’s best friend in middle school.
+Had a major crush on Suji but never let it show.
+Left her conservative Muslim family in Punjab after middle school to live with her more liberal relatives in Canada.
+Has returned to India after graduating from a Canadian university, and has been working in Bollywood. Is later hired to be the best boy grip in Suji’s film crew. 
+Has secretly been trying to reconcile her sexuality with her otherwise asexual/masculine personality, but has yet to find a satisfactory balance.
+</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Noa Saeki　(佐伯 乃安)</Title>
+            <Synopsis>東大中退僧侶志望の超プレイボーイなDJ．別に性格は悪くない，ただ優しすぎてモテすぎて女の子が好きすぎるだけ．実家が真言宗の寺．別に継ぐ必要はないが，出家したがっている．
+「色即是空」</Synopsis>
+            <Text>A 28-year-old University of Tokyo dropout, DJ, super good with women.
+Introduced to Aash by her older sister Hirari, his former classmate (and momentary ex-girlfriend) at Todai. 
+Now mixes night shifts at bars with a mildly successful, but hardly profitable, DJ and trackmaking career.
+Has been harassed by an anonymous female stalker.
+Fed up with his rollercoaster love life, has decided to give up music to become a Buddhist monk.</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Inana Saeki (佐伯 以奈々)</Title>
+            <Synopsis>佐伯以奈々
+アメリカに留学してた乃阿の妹．帰国後，僧侶と結婚したため乃安が家を継ぐ必要がなくなる．</Synopsis>
+        </Document>
+        <Document ID="13">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMAT
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a formatted screenplay.
+
+How To Use this Template
+Edit the Title Page document to ensure it contains the correct information.
+Create new documents inside the “Scenes” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder.
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, select the sheet and then choose Documents &gt; Duplicate to create a new copy of the document which you can move to its intended location and fill in with your character or setting details.
+Compile your script for printing or exporting by selecting File &gt; Compile.
+
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="15">
+            <Title>Hirari Kanada (金田 比良理)</Title>
+            <Synopsis>吾須理の優秀な姉で乃安のちょっとだけ元カノ．有名なコンサルで働いている．</Synopsis>
+            <Text>Aash’s older sister and (briefly) former girlfriend of Noah.</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Srikanth &quot;The Snake&quot;</Title>
+            <Synopsis>Meghumiにゾッコンなムンバイマフィア幹部，40代後半，ゴーギャン似．強面で実際怖いが変にロマンチスト．</Synopsis>
+            <Text>A prominent member of the Mumbai underworld.
+Looks like Paul Gauguin and half-seriously considers himself his reincarnate.
+In love with Meghumi, a 19-year-old Japanese girl.
+Finds Suji’s screenplay in the trash and forces him to direct it at gunpoint, with Meghumi in the lead role.</Text>
+        </Document>
+        <Document ID="17">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Scenes</Title>
+        </Document>
+        <Document ID="20">
+            <Title>Meghumi</Title>
+            <Synopsis>どこかキレてる不思議系黒髪19歳少女，実は乃安のストーカー．</Synopsis>
+            <Text>Srikanth’s 19-year-old Japanese girlfriend.
+Sexy, crazy, bitchy. Aspiring fashion model and (bad) actress.
+Is actually a secret admirer and stalker of Noah.</Text>
+        </Document>
+        <Document ID="21">
+            <Title>Mr. Gupta</Title>
+            <Synopsis>老け専ゲイのキーグリップ．恰幅の良い陽気な中年エロおやぢに見えて実は弱冠30歳．</Synopsis>
+            <Text>Bahar’s perverted, annoying but ultimately lovable boss in Bollywood.
+Later hired as key grip in Suji’s film crew.
+Conspicuously gay. Has a thing for old Japanese men.
+Looks old but is still only 30.</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Murata-sensei　(村田先生)</Title>
+            <Synopsis>B'zのアコースティックカバーバンドP'sとして地元町田の路上で精力的に活動する30代前半男性社会科教諭．生徒には割と慕われてるが，ブラック精神満載でちょっと暑苦しい．吾須理の熱意を気に入って，やたらと構ってくる．</Synopsis>
+            <Text>Aash’s annoying colleague at school.
+Plays in an amateur band called P’s, which is an acoustic cover band of B’z.
+Believes in working hard and playing hard, to a fault.
+Likes Aash and keeps pestering her.</Text>
+        </Document>
+        <Document ID="23">
+            <Title>Laura-sensei (ローラ先生)</Title>
+            <Synopsis>イギリス出身，アシスタント英語教師．金髪白人美女で典型的日本オタ．本格的コスプレイヤー(すごいサマになる)．漢文と日本のおっさんが好き．</Synopsis>
+            <Text>Aash’s only tolerable colleague at school.
+Stereotypical blond-haired gaijin English teacher from the UK.
+Hardcore cosplayer.
+Has a thing for old Japanese men.</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Machida</Title>
+        </Document>
+        <Document ID="25">
+            <Title>Sendagi</Title>
+            <Synopsis>Aash used to work here.</Synopsis>
+        </Document>
+        <Document ID="26">
+            <Title>Mumbai</Title>
+            <Synopsis>Suji meets Srikanth here while he is visiting the city for a job interview. Later he meets and hires Bahar and Mr. Gupta before heading off to Tokyo.</Synopsis>
+        </Document>
+        <Document ID="27">
+            <Title>Delhi</Title>
+            <Synopsis>Suji studied film here.</Synopsis>
+        </Document>
+        <Document ID="28">
+            <Title>Edmonton</Title>
+        </Document>
+        <Document ID="29">
+            <Title>Tokyo</Title>
+            <Synopsis>Where the bulk of the story takes place.</Synopsis>
+        </Document>
+        <Document ID="30">
+            <Title>Rural Punjab</Title>
+            <Synopsis>Suji and Bahar grew up here.</Synopsis>
+        </Document>
+        <Document ID="31">
+            <Title>[Flashback 2001] Suji discovers the Shibuya-kei movement</Title>
+            <Synopsis>In a Punjabi town.
+A 14-year-old Suji(played by his “younger brother” Sandeep) comes into a newly opened Internet café, hoping to do research for a school project on Japan. He accidentally comes across an American website describing the Shibuya-kei movement.
+A contrarian, he has been looking for something that will give him an edge over the mainstream counterculture popular among the cool kids at school. He senses that an obscure (at least in his town) Japanese counterculture is fit for the purpose.
+He is fascinated by contemporary acts such as Pizzicato Five and Cornelius. Through them, he soon discovers Jean-Luc Godard and gets into filmmaking.</Synopsis>
+        </Document>
+        <Document ID="32">
+            <Title>[Flashback 2000-2002] Suji and Bahar in middle school</Title>
+            <Synopsis>bb</Synopsis>
+        </Document>
+        <Document ID="33">
+            <Title>[Flashback 2009] Aash's last attempt at Bollywood</Title>
+            <Synopsis>Aash recollects her last summer vacation as a college student – her last attempt at Bollywood, she had told herself.
+She has come to a studio somewhere in Mumbai, and is sitting in front of a movie casting director, reciting some lines in Hindi, auditioning for a small role.
+Her acting is quite good, but the director is not looking for an East Asian actress with an accent. She waves Aash away.</Synopsis>
+        </Document>
+        <Document ID="34">
+            <Title>Title and opening credits</Title>
+            <Synopsis>[Song 1: “A Message Song” by Pizzicato Five]
+
+Time-lapse image of his room being gradually filled with Shibuya-kei paraphernalia and records. Brief footages of him and Bahar shooting experimental films together and riding trucks.
+
+Suji is soon in high school. He drives through his family’s fields in a truck, while listening to the dubbed P5 song on his car stereo. Bahar is gone. He still thinks about her. The song seems to be a message from him to her. He loved her - as his best friend, though he never had any romantic feelings for her.
+A brief pause when Suji tries to play the song with a local band. They transform it into a Punjabi version. &quot;Ah, forget it.&quot; Suji storms out of the studio and the original song resumes.
+
+Suji is shown going to Delhi after high school to study filmmaking. 
+
+Other characters dance through the scenes in an overlay kind of fashion. A bit like in an anime opening sequence, with a flurry of characters.
+
+When the song ends, it is November 2011 and Suji is in Tokyo shooting his final project, a documentary on the Shibuya-kei movement.</Synopsis>
+        </Document>
+        <Document ID="35">
+            <Title>Aash's job interview</Title>
+            <Synopsis>A chilly Friday morning. Aash is being interviewed at an office in Machida, her hometown. After an awkward interview, she notices a missed call from her old part-time job near Sendagi, an Indian restaurant, saying their waiter is sick and asking Aash to fill in for him during lunchtime.</Synopsis>
+        </Document>
+        <Document ID="36">
+            <Title>[Dance] Aash goes to Sendagi</Title>
+            <Synopsis>[Song 2: “Tokyo” by Yoritam – First verse]
+Aash is waiting for the train at the Odakyu Machida station, with her “recruit suit” still on. She has missed Indian culture during her job hunt, and is excited to go back, for a day. A recorded voice announcing the station name – “Machida, Machida” – fades into the chorus of the song.
+A solo Bollywood dance by Aash on the Odakyu line train, while the other passengers go about their business as usual. Here the pseudo-documentary starts turning into a musical. </Synopsis>
+        </Document>
+        <Document ID="37">
+            <Title>Suji goes to Sendagi</Title>
+            <Synopsis>The same morning, in Suji’s hostel near Harajuku. He has finished his shooting in Tokyo, and has the weekend free before he goes back to Delhi on Sunday. He decides to venture out on the Chiyoda line to see parts of Tokyo he hasn’t seen before.</Synopsis>
+        </Document>
+        <Document ID="38">
+            <Title>[Dance] Aash dances in Sendagi</Title>
+            <Synopsis>[Song 3: “Sendagi/Zindagi” by Yoritam]
+Aash arrives in Sendagi. She is suddenly dressed in a colorful Punjabi suit.
+She dances to the song (the song has nonsensical lyrics that have meanings in both Hindi and Japanese), involving the restaurant’s staff and customers, and passers-by.</Synopsis>
+        </Document>
+        <Document ID="39">
+            <Title>Suji meets Aash</Title>
+            <Synopsis>Enters Suji, who happens to have gotten off at Sendagi and stopped by for lunch.
+He is impressed by Aash's dancing and starts talking to her in a broken Japanese. Aash answers in fluent (albeit accented) Hindi, mixing in some Punjabi, and he is even more impressed.
+Aash is intrigued when she finds out Suji is studying film. She asks him to wait till lunch time is over, then she would show him around Sendagi.</Synopsis>
+        </Document>
+        <Document ID="40">
+            <Title>Aash shows Suji around Sendagi</Title>
+            <Synopsis>Aash shows Suji some old temples and buildings in the area.
+The two walk around Todai. Aash talks about her older sister who graduated from there and now works at a prestigious consulting firm; about giving up her dreams of becoming an actress in Bollywood; about how bad she feels when she compares herself to her sister.
+Suji tells her that she can be proud as long as she stays true to what she loves, and that nothing stops her from working with film as a hobby – not even funding is a major concern these days. Suji likes Aash, so he is nice to her. He is not his usual sarcastic self.
+Aash then tells him about her dream – to star in a Bollywood movie, featuring a full-scale group dance sequence in the Shibuya crossing. Suji says, jokingly, that they can make that movie together.</Synopsis>
+        </Document>
+        <Document ID="41">
+            <Title>[Song] At a Russian song cafe</Title>
+            <Synopsis>[Song 4: “Mera Joota Hai Japani” – Russian folk version]
+Aash takes him to a local Russian song café for dinner, run by middle-aged leftists.
+The couple is delighted when the singers start singing this Hindi song for Suji, in their distinct Russian folk singing style. They both sing along and have a good time.</Synopsis>
+        </Document>
+        <Document ID="42">
+            <Title>[Song] Aash and Suji at a karaoke</Title>
+            <Synopsis>[Song 5: “Nihon Indo-ka Keikaku” by Kinniku Shojo Tai (brief excerpt)]
+Aash and Suji hit a karaoke after dinner. Suji shows off his knowledge of Japanese songs, to Aash’s amusement.</Synopsis>
+        </Document>
+        <Document ID="43">
+            <Title>[Song] Aash sings a capella</Title>
+            <Synopsis>Aash then stops the music and starts singing a romantic Bollywood classic a capella (because the song is not in the karaoke). 
+[Song 6: ??? Undecided (Brief excerpt)]
+Suji joins in. They sing together, looking into each other’s eyes etc.
+</Synopsis>
+        </Document>
+        <Document ID="44">
+            <Title>[Song] Suji and Aash take a taxi to his hostel</Title>
+            <Synopsis>[Song 7: “Tokyo Ren-ai Senka, Matawa Koi Wa Itte Mirya Bodi Buro” by Kenji Ozawa]
+Suji and Aash are in a taxi together, on their way to his hostel in Harajuku. Aash has missed her last train to Machida.
+Night lights fly past the taxi windows while an Ozaken song music plays on the midnight radio. Everything is picture-perfect. They kiss in the taxi.</Synopsis>
+        </Document>
+        <Document ID="45"/>
+        <Document ID="46">
+            <Title>[Song] Aash shows Suji around Tokyo</Title>
+            <Synopsis>[Song 7: “Tokyo Ren-ai Senka, Matawa Koi Wa Itte Mirya Bodi Buro” by Kenji Ozawa]
+Next morning. The song is still playing.
+Suji and Aash are sightseeing together. They are in love. They both realize that their tastes and interests are actually quite different, perhaps incompatible, but this only adds to their mutual attraction.
+Aash takes Suji to places around Tokyo with many foreigners and shops catering to them – Ueno, Ikebukuro, Takadanobaba, Shin-Okubo, Roppongi – the places she loves most in Tokyo, places where she can feel like she is outside Japan.
+Occasional gratuitous dancing.</Synopsis>
+        </Document>
+        <Document ID="47">
+            <Title>Suji tells Aash stories from his teenage years</Title>
+            <Synopsis>They end the day by going to a Jean Luc Godard-themed bar in Golden Gai, Shinjuku.
+They talk about Suji's life. Suji is a good storyteller, vividly recounting episodes from his frustrated youth as a lonely Japanophile in a Punjabi village. Aash is completely taken with Suji and the stories he tells.
+He then starts to recall episodes with Bahar, his best friend in middle school whom he has not heard from since.</Synopsis>
+        </Document>
+        <Document ID="48">
+            <Title>Aash reveals her views on life</Title>
+            <Synopsis>Suji asks Aash what she would be doing the following Monday. She says she has another job interview.
+She is revealed to have been feeling pessimistic about life in general due to by her failure to become a Bollywood actress. None of the jobs available sounds very exciting to her, and the job hunt has been extremely painful.
+But she feels that she has to get a stable, normal job. She was never very persistent at anything before deciding to aim at a Bollywood career, and now that that dream is lost, she again feels like she has nothing at her core. She is desperate to prove to herself and to her family that she can at least get a decent job in Japan and stick to it.
+Suji tells her that she doesn't have to take the job hunt so seriously. She is talented, and still young, so she should keep trying to find outlets for her talent, even if they are not necessarily in India. But she does not seem to understand.
+She asks him what he would do when he goes back to India. He tells her that he would first graduate, then he would keep doing odd film jobs like he has done for a long time. He is confident that he can get by in the industry somehow, even if he does not become very famous or rich. Aash envies him, not realizing that she is preventing herself from being in a similar position, by being unflexible.</Synopsis>
+        </Document>
+        <Document ID="49">
+            <Title>[Dance] Aash and Suji say goodbye</Title>
+            <Synopsis>[Song 2: “Tokyo” by Yoritam – Third verse]
+Aash and Suji part at Odakyu Shinjuku station before her last train home. Suji has to catch a plane the next morning. Suji says he would just walk back to his hostel to enjoy the cold night air.
+They dance together at the station, just outside the ticket gates, this time involving many people. Suji always dances with a sophisticated look of disinterest.
+
+They agree not to see each other again. (Aash is adamant on giving up her interest in cinema, and there is no realistic way they can be together. It would be hard for Aash to find a job in India, and for Suji to find a job in Japan. It would be better to preserve the good memory of their time together, unchanged. Suji is sad because he thinks she is being overly pessimistic, but decides to respect her decision. He himself does not really believe that she would make it as an actress in India, and their relationship would not really work otherwise.) 
+Suji tells her he would never forget her, and that she can always get in touch with him again should she ever change her mind - she can just google his name. Aash breaks into tears and says she has to forget him, otherwise she wouldn't be able to move on. They squeeze each other for a moment before she hurries off through a ticket gate. (The train is a local, though, and her tears dry out before she reaches Machida – as sung in the chorus of “Tokyo”)</Synopsis>
+        </Document>
+        <Document ID="50">
+            <Title>Aash starts her new job</Title>
+            <Synopsis>Early April, 2012. After an unsuccessful job hunt, Aash has repeated a year in college and managed to find a job at a local middle school as an English teacher. She is starting her new job this month.
+For more than a year, she has been trying to forget Suji, but hasn't been able to. She has refrained from visiting most of the places she showed Suji around, but she still manages to be reminded of him by the most random things - a miniature painting of a Mughal prince (who she thinks resembles Suji) that she finds in a middle school history textbook at her new job, for instance.
+Fundamentally, her lingering feelings for Suji also reflect how she has not been able to completely give up on her dreams. She feels that maybe, just maybe, if she gets in touch with Suji, he would help her find a role in a Hindi movie and make her dreams come true.
+The soundtrack lacks music, reflecting a lack of captivating narrative in her current life. She hears, in the wind, in the school chimes, the train announcements, the baked sweet potato sellers’ calls, echoes of the Tokyo song she danced to with Suji. (The idea is that she had bits of the song somehow playing in her head while she was with him)
+
+Aash's colleagues are introduced. Murata-sensei takes his job very seriously, and clashes with the more relaxed teachers. He is always trying to start up some new project at the school. The other female teachers are always holding birthday parties for each other and bringing fashionable confectionery to the office, and Aash feels uncomfortably pressured to do the same. The only tolerable colleague is Laura-sensei, who is a British assistant English teacher. Her tastes are too Japanese for Aash, however.
+Aash's interactions with her colleagues remain superficial throughout the movie. Aash never tells them about Suji, or the fact that she had tried to become an actress before becoming a teacher.</Synopsis>
+        </Document>
+        <Document ID="51">
+            <Title>[Dance] Aash resolves to forget Suji</Title>
+            <Synopsis>[Song 9: “Onna no Odyssey” by Yoritam] 
+Aash is watching NHK in the living room on a Sunday afternoon with her parents, when Nodo-Jiman comes on and a young Japanese female enka enthusiast starts singing in a kimono. The screen then switches to the singer changing costume and performing gratuitous, suggestive dancing surrounded by a group of attractive men playing various musical instruments, in the manner of an “item number”(a suggestive dance sequence unrelated to the main plot of the movie).
+The song, about echoes of a passionate romance threatening to lead a woman astray, resonates with Aash. This is expressed on screen by Aash getting involved in the suggestive dancing with the singer. (The dancing is interrupted by chimes – the singer gets a rating of two) Aash decides that she should not let memories of Suji and the faint hopes of starting a Bollywood career keep her from concentrating on her new job. She resolves to start up a new project with Murata-sensei, in order to get into her job more.</Synopsis>
+        </Document>
+        <Document ID="52">
+            <Title>Suji writes screenplay about his encounter with Aash</Title>
+            <Synopsis>(Suji has now graduated from college, and is freelancing in Delhi. He is still having to do mostly random work to sustain himself.
+True to his words, he has not forgotten his feelings for Aash. As a filmmaker, he likes a good story, and his story with Aash was too good to forget. He has been thinking about how he can turn it into a movie.
+Though he does not really expect to see her again, and definitely not to date her, he still hopes that she would change her mind about him and contact him, maybe even visit him on holiday. He cannot get very serious about dating other women, because this is still always at the back of his mind somewhere.)
+On the first anniversary of their meeting, Suji starts writing a screenplay based on his encounter with Aash in Tokyo. He comes up with a story about a brief romantic encounter in Tokyo between a popular Japanese actress and an Indian revolutionary in the eve of World War II. The actress has been brainwashed by the Japanese government into acting in their patriotic propaganda films in spite of her original views, but the revolutionary succeeds in un-brainwashing her through his love. After the revolutionary goes back to India, the actress starts to express her views again, rallying for the true freedom of the Asian people under Japanese imperialist rule. He hopes 
+
+スージーは、吾須理との出会いを片付けるために脚本を書く。忘れられないストーリーだったから。ローマの休日みたいな気分を表現したかった。
+彼女ともう会うつもりはないが、(今の私と似てる)なんとなく気持ちに区切りをつけたくて書いた。</Synopsis>
+        </Document>
+        <Document ID="53">
+            <Title>November 2010, Tokyo</Title>
+        </Document>
+        <Document ID="54">
+            <Title>November 2011, Delhi</Title>
+        </Document>
+        <Document ID="55">
+            <Title>April 2012, Tokyo</Title>
+        </Document>
+        <Document ID="56"/>
+        <Document ID="57">
+            <Title>Intro</Title>
+        </Document>
+        <Document ID="58"/>
+    </Documents>
+</SearchIndexes>
