@@ -8,7 +8,7 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="5" Created="2007-03-26 00:41:49 +0000" Modified="2013-06-01 03:42:08 +0000" Type="Text">
+                <BinderItem ID="5" Created="2007-03-26 00:41:49 +0000" Modified="2013-06-01 14:23:36 +0000" Type="Text">
                     <Title>Title Page</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -16,11 +16,23 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>103,103</TextSelection>
+                        <TextSelection>81,81</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" Created="2010-10-19 12:06:35 +0000" Modified="2013-05-31 16:05:27 +0000" Type="Folder">
+                <BinderItem ID="96" Created="2013-06-01 13:59:59 +0000" Modified="2013-06-01 14:17:20 +0000" Type="Text">
+                    <Title>Title Page (Condensed)</Title>
+                    <MetaData>
+                        <IncludeInCompile>No</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>85,85</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" Created="2010-10-19 12:06:35 +0000" Modified="2013-06-01 10:01:48 +0000" Type="Folder">
                     <Title>Characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -32,7 +44,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="8" Created="2013-05-31 14:43:36 +0000" Modified="2013-06-01 01:41:22 +0000" Type="Text">
+                        <BinderItem ID="8" Created="2013-05-31 14:43:36 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
                             <Title>Ashuri &quot;Aash&quot; Kanada (金田 吾須理)</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -40,11 +52,22 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>356,356</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="106" Created="2013-06-01 15:12:28 +0000" Modified="2013-06-01 15:13:32 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="9" Created="2013-05-31 14:46:30 +0000" Modified="2013-06-01 01:38:11 +0000" Type="Text">
+                        <BinderItem ID="9" Created="2013-05-31 14:46:30 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
                             <Title>Suraj &quot;Suji&quot; Singh</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -52,23 +75,45 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>620,620</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="97" Created="2013-06-01 15:11:53 +0000" Modified="2013-06-01 15:13:31 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="10" Created="2013-05-31 14:47:07 +0000" Modified="2013-06-01 04:32:17 +0000" Type="Text">
-                            <Title>Bahar Bahri</Title>
+                        <BinderItem ID="10" Created="2013-05-31 14:47:07 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Bahar &quot;Bandar&quot; Bahri</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>291,291</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="98" Created="2013-06-01 15:12:00 +0000" Modified="2013-06-01 15:13:36 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="11" Created="2013-05-31 14:55:45 +0000" Modified="2013-06-01 01:37:39 +0000" Type="Text">
+                        <BinderItem ID="11" Created="2013-05-31 14:55:45 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
                             <Title>Noa Saeki　(佐伯 乃安)</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -76,11 +121,68 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>68,68</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="100" Created="2013-06-01 15:12:01 +0000" Modified="2013-06-01 15:12:38 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="15" Created="2013-05-31 14:59:02 +0000" Modified="2013-06-01 01:41:33 +0000" Type="Text">
+                        <BinderItem ID="16" Created="2013-05-31 15:01:15 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Srikanth &quot;The Snake&quot; Vemuganti</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="99" Created="2013-06-01 15:12:01 +0000" Modified="2013-06-01 15:12:38 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="20" Created="2013-05-31 15:01:53 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Meghumi (Full name unknown)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="101" Created="2013-06-01 15:12:02 +0000" Modified="2013-06-01 15:12:39 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="15" Created="2013-05-31 14:59:02 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
                             <Title>Hirari Kanada (金田 比良理)</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -88,11 +190,91 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4,4</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="103" Created="2013-06-01 15:12:18 +0000" Modified="2013-06-01 15:12:40 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="12" Created="2013-05-31 14:57:44 +0000" Modified="2013-06-01 01:41:01 +0000" Type="Text">
+                        <BinderItem ID="21" Created="2013-05-31 15:02:13 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Sanjay &quot;Mr. Gupta&quot; Gupta</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="104" Created="2013-06-01 15:12:19 +0000" Modified="2013-06-01 15:12:43 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="22" Created="2013-05-31 15:02:47 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Toshiyuki &quot;Gachida&quot; Kachida　(勝田 敏行)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="105" Created="2013-06-01 15:12:19 +0000" Modified="2013-06-01 15:12:44 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="23" Created="2013-05-31 15:03:15 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
+                            <Title>Laura B. Cavendish</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="102" Created="2013-06-01 15:12:03 +0000" Modified="2013-06-01 15:12:48 +0000" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>No</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="12" Created="2013-05-31 14:57:44 +0000" Modified="2013-06-01 15:11:42 +0000" Type="Text">
                             <Title>Inana Saeki (佐伯 以奈々)</Title>
                             <MetaData>
                                 <IncludeInCompile>No</IncludeInCompile>
@@ -103,67 +285,9 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="16" Created="2013-05-31 15:01:15 +0000" Modified="2013-06-01 06:18:12 +0000" Type="Text">
-                            <Title>Srikanth &quot;The Snake&quot; Vemuganti</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>108,108</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="20" Created="2013-05-31 15:01:53 +0000" Modified="2013-05-31 15:47:09 +0000" Type="Text">
-                            <Title>Meghumi</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>156,156</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="21" Created="2013-05-31 15:02:13 +0000" Modified="2013-06-01 06:10:11 +0000" Type="Text">
-                            <Title>Sanjay &quot;Mr. Gupta&quot; Gupta</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>199,199</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="22" Created="2013-05-31 15:02:47 +0000" Modified="2013-06-01 06:04:14 +0000" Type="Text">
-                            <Title>Toshiyuki Kachida &quot;Gachida-sensei&quot;　(勝田敏行)</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="23" Created="2013-05-31 15:03:15 +0000" Modified="2013-06-01 06:11:43 +0000" Type="Text">
-                            <Title>Laura Cavendish &quot;Laura-sensei&quot; (ローラ先生)</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="19" Created="2010-10-26 14:37:05 +0000" Modified="2013-05-31 17:21:52 +0000" Type="Folder">
+                <BinderItem ID="19" Created="2010-10-26 14:37:05 +0000" Modified="2013-06-01 12:19:01 +0000" Type="Folder">
                     <Title>Scenes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -174,7 +298,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="57" Created="2013-06-01 01:47:10 +0000" Modified="2013-06-01 01:47:33 +0000" Type="Folder">
+                        <BinderItem ID="57" Created="2013-06-01 01:47:10 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>Intro</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -184,8 +308,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="33" Created="2013-05-31 16:43:41 +0000" Modified="2013-06-01 03:56:06 +0000" Type="Text">
-                                    <Title>[Flashback 2010] Aash's last attempt at Bollywood</Title>
+                                <BinderItem ID="33" Created="2013-05-31 16:43:41 +0000" Modified="2013-06-01 10:46:32 +0000" Type="Text">
+                                    <Title>[Flashback] Aash's last attempt at Bollywood</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -195,8 +319,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="31" Created="2013-05-31 16:37:15 +0000" Modified="2013-05-31 16:51:14 +0000" Type="Text">
-                                    <Title>[Flashback 2001] Suji discovers the Shibuya-kei movement</Title>
+                                <BinderItem ID="31" Created="2013-05-31 16:37:15 +0000" Modified="2013-06-01 10:46:47 +0000" Type="Text">
+                                    <Title>[Flashback] Suji discovers the Shibuya-kei movement</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -206,8 +330,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="34" Created="2013-05-31 16:53:21 +0000" Modified="2013-05-31 16:53:39 +0000" Type="Text">
-                                    <Title>Title and opening credits</Title>
+                                <BinderItem ID="34" Created="2013-05-31 16:53:21 +0000" Modified="2013-06-01 10:46:59 +0000" Type="Text">
+                                    <Title>[Song] Title and opening credits</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -219,7 +343,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="53" Created="2013-06-01 01:45:47 +0000" Modified="2013-06-01 03:58:45 +0000" Type="Folder">
+                        <BinderItem ID="53" Created="2013-06-01 01:45:47 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>November 2010, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -250,30 +374,10 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="37" Created="2013-05-31 17:08:54 +0000" Modified="2013-06-01 01:50:37 +0000" Type="Text">
-                                    <Title>Suji goes to Sendagi</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="38" Created="2013-05-31 17:11:10 +0000" Modified="2013-06-01 01:51:57 +0000" Type="Text">
-                                    <Title>[Dance] Aash dances in Sendagi</Title>
+                                <BinderItem ID="38" Created="2013-05-31 17:11:10 +0000" Modified="2013-06-01 10:44:07 +0000" Type="Text">
+                                    <Title>[Dance] Suji meets Aash</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="39" Created="2013-05-31 17:14:51 +0000" Modified="2013-06-01 01:50:43 +0000" Type="Text">
-                                    <Title>Suji meets Aash</Title>
-                                    <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
@@ -304,17 +408,6 @@
                                 </BinderItem>
                                 <BinderItem ID="42" Created="2013-05-31 17:27:47 +0000" Modified="2013-06-01 01:52:20 +0000" Type="Text">
                                     <Title>[Song] Aash and Suji at a karaoke</Title>
-                                    <MetaData>
-                                        <LabelID>2</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="43" Created="2013-05-31 17:28:40 +0000" Modified="2013-06-01 01:52:27 +0000" Type="Text">
-                                    <Title>[Song] Aash sings a capella</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -356,8 +449,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="32" Created="2013-05-31 16:40:07 +0000" Modified="2013-06-01 02:11:41 +0000" Type="Text">
-                                    <Title>[Flashback 2000-2002] Suji and Bahar in middle school</Title>
+                                <BinderItem ID="32" Created="2013-05-31 16:40:07 +0000" Modified="2013-06-01 10:47:15 +0000" Type="Text">
+                                    <Title>[Flashback] Suji and Bahar in middle school</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -390,7 +483,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="54" Created="2013-06-01 01:46:21 +0000" Modified="2013-06-01 03:35:52 +0000" Type="Folder">
+                        <BinderItem ID="54" Created="2013-06-01 01:46:21 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>February 2012, Mumbai</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -410,9 +503,10 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="60" Created="2013-06-01 03:35:41 +0000" Modified="2013-06-01 03:54:49 +0000" Type="Text">
-                                    <Title>Srikanth finds the printout and hires Suji to direct it</Title>
+                                <BinderItem ID="60" Created="2013-06-01 03:35:41 +0000" Modified="2013-06-01 12:16:52 +0000" Type="Text">
+                                    <Title>[Song] Srikanth finds printout and hires Suji to direct it</Title>
                                     <MetaData>
+                                        <LabelID>2</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
@@ -422,7 +516,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="55" Created="2013-06-01 01:46:41 +0000" Modified="2013-06-01 01:47:15 +0000" Type="Folder">
+                        <BinderItem ID="55" Created="2013-06-01 01:46:41 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>April 2012, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -455,7 +549,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="56" Created="2013-06-01 01:47:01 +0000" Modified="2013-06-01 04:39:55 +0000" Type="Folder">
+                        <BinderItem ID="56" Created="2013-06-01 01:47:01 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>April 2012, Mumbai</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -498,7 +592,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="58" Created="2013-06-01 01:49:06 +0000" Modified="2013-06-01 07:20:56 +0000" Type="Folder">
+                        <BinderItem ID="58" Created="2013-06-01 01:49:06 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>June-August 2012, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -508,19 +602,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="63" Created="2013-06-01 05:39:37 +0000" Modified="2013-06-01 06:34:08 +0000" Type="Text">
+                                <BinderItem ID="63" Created="2013-06-01 05:39:37 +0000" Modified="2013-06-01 11:33:54 +0000" Type="Text">
                                     <Title>Aash starts up a campaign at her school</Title>
-                                    <MetaData>
-                                        <StatusID>1</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="74" Created="2013-06-01 07:38:27 +0000" Modified="2013-06-01 07:39:21 +0000" Type="Text">
-                                    <Title>Aash is disgusted by Gachida-sensei's mediocrity</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -539,9 +622,10 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="73" Created="2013-06-01 07:37:49 +0000" Modified="2013-06-01 07:39:44 +0000" Type="Text">
-                                    <Title>Aash still feels like something is missing</Title>
+                                <BinderItem ID="74" Created="2013-06-01 07:38:27 +0000" Modified="2013-06-01 11:32:18 +0000" Type="Text">
+                                    <Title>Aash is disgusted by Gachida-sensei's mediocrity</Title>
                                     <MetaData>
+                                        <LabelID>2</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
@@ -551,7 +635,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="69" Created="2013-06-01 06:52:46 +0000" Modified="2013-06-01 07:08:43 +0000" Type="Folder">
+                        <BinderItem ID="69" Created="2013-06-01 06:52:46 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>June-August 2012, Mumbai</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -581,9 +665,20 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="89" Created="2013-06-01 11:30:05 +0000" Modified="2013-06-01 11:30:39 +0000" Type="Text">
+                                    <Title>Suji films Shibuya dance sequence but is interrupted</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="67" Created="2013-06-01 06:48:01 +0000" Modified="2013-06-01 08:12:44 +0000" Type="Folder">
+                        <BinderItem ID="67" Created="2013-06-01 06:48:01 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>September 2012, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -592,9 +687,74 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="77" Created="2013-06-01 10:49:35 +0000" Modified="2013-06-01 11:36:38 +0000" Type="Text">
+                                    <Title>Suji and crew arrive in Tokyo and go to onsen</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="59" Created="2013-06-01 10:48:28 +0000" Modified="2013-06-01 11:27:07 +0000" Type="Text">
+                                    <Title>[Song] Suji and Bahar hang out in Setagaya</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="78" Created="2013-06-01 10:50:52 +0000" Modified="2013-06-01 12:15:33 +0000" Type="Text">
+                                    <Title>Bahar and Suji go to a music festival together</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="90" Created="2013-06-01 11:42:15 +0000" Modified="2013-06-01 11:58:47 +0000" Type="Text">
+                                    <Title>Suji and Aash almost meet, but don't</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="79" Created="2013-06-01 10:51:53 +0000" Modified="2013-06-01 12:05:48 +0000" Type="Text">
+                                    <Title>[Dance][Flashback] Aash meets Noa</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="91" Created="2013-06-01 12:00:52 +0000" Modified="2013-06-01 12:05:18 +0000" Type="Text">
+                                    <Title>[Song] Noa offers to make song for Aash</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="66" Created="2013-06-01 06:35:04 +0000" Modified="2013-06-01 08:45:44 +0000" Type="Folder">
-                            <Title>October-January 2012, Tokyo</Title>
+                        <BinderItem ID="66" Created="2013-06-01 06:35:04 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
+                            <Title>October-December 2012, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -602,8 +762,51 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="6" Created="2013-06-01 10:14:23 +0000" Modified="2013-06-01 10:57:47 +0000" Type="Text">
+                                    <Title>Aash and Noa write her song</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="80" Created="2013-06-01 10:56:05 +0000" Modified="2013-06-01 10:56:31 +0000" Type="Text">
+                                    <Title>Aash choreographs music video and practices</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="81" Created="2013-06-01 10:56:14 +0000" Modified="2013-06-01 12:05:13 +0000" Type="Text">
+                                    <Title>[Dance] Aash and Noa film video and publish it on YouTube</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="82" Created="2013-06-01 10:56:50 +0000" Modified="2013-06-01 10:57:17 +0000" Type="Text">
+                                    <Title>Noa announces that he will become a monk</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="68" Created="2013-06-01 06:50:27 +0000" Modified="2013-06-01 08:53:17 +0000" Type="Folder">
+                        <BinderItem ID="68" Created="2013-06-01 06:50:27 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>January 2013, Mumbai</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -612,8 +815,42 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="13" Created="2013-06-01 10:14:27 +0000" Modified="2013-06-01 12:13:44 +0000" Type="Text">
+                                    <Title>[Song] Srikanth adds another Tokyo shoot</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="83" Created="2013-06-01 10:59:40 +0000" Modified="2013-06-01 11:00:12 +0000" Type="Text">
+                                    <Title>Suji's birthday party</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="84" Created="2013-06-01 11:00:14 +0000" Modified="2013-06-01 12:07:47 +0000" Type="Text">
+                                    <Title>Suji and Bahar fall in love</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="75" Created="2013-06-01 08:41:00 +0000" Modified="2013-06-01 09:18:00 +0000" Type="Folder">
+                        <BinderItem ID="75" Created="2013-06-01 08:41:00 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>March 2013, Tokyo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -621,11 +858,73 @@
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>5,5</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="85" Created="2013-06-01 11:01:03 +0000" Modified="2013-06-01 12:49:55 +0000" Type="Text">
+                                    <Title>[Song] Noa leaves for Koyasan</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="86" Created="2013-06-01 11:01:29 +0000" Modified="2013-06-01 13:01:41 +0000" Type="Text">
+                                    <Title>Meghumi follows Noa to Koyasan</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="87" Created="2013-06-01 11:05:49 +0000" Modified="2013-06-01 11:07:09 +0000" Type="Text">
+                                    <Title>Movie is scrapped; Bahar convinces Suji to make movie with Aash</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="3" Created="2013-06-01 10:14:09 +0000" Modified="2013-06-01 15:53:03 +0000" Type="Text">
+                                    <Title>Suji pitches movie idea to Aash</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="107" Created="2013-06-01 15:43:36 +0000" Modified="2013-06-01 15:56:05 +0000" Type="Text">
+                                            <Title>Script</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CompileAsIs>Yes</CompileAsIs>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <TextSelection>99,99</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="76" Created="2013-06-01 09:18:34 +0000" Modified="2013-06-01 09:19:12 +0000" Type="Text">
+                        <BinderItem ID="76" Created="2013-06-01 09:18:34 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
                             <Title>Outro</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -634,6 +933,30 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="14" Created="2013-06-01 10:14:31 +0000" Modified="2013-06-01 11:08:38 +0000" Type="Text">
+                                    <Title>[Dance] Fictional end credits</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="88" Created="2013-06-01 11:08:03 +0000" Modified="2013-06-01 11:08:43 +0000" Type="Text">
+                                    <Title>[Song] Real end credits</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -680,6 +1003,16 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="95" Created="2013-06-01 13:14:05 +0000" Modified="2013-06-01 13:14:08 +0000" Type="Text">
+                            <Title>Shibuya</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="26" Created="2013-05-31 15:28:03 +0000" Modified="2013-05-31 15:28:06 +0000" Type="Text">
@@ -694,16 +1027,6 @@
                 </BinderItem>
                 <BinderItem ID="27" Created="2013-05-31 15:28:49 +0000" Modified="2013-05-31 15:28:53 +0000" Type="Text">
                     <Title>Delhi</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="28" Created="2013-05-31 15:29:05 +0000" Modified="2013-05-31 15:29:37 +0000" Type="Text">
-                    <Title>Edmonton</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -761,6 +1084,110 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="37" Created="2013-05-31 17:08:54 +0000" Modified="2013-06-01 01:50:37 +0000" Type="Text">
+                    <Title>Suji goes to Sendagi</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" Created="2013-06-01 10:44:21 +0000" Modified="2013-06-01 10:44:21 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" Created="2013-05-31 17:14:51 +0000" Modified="2013-06-01 01:50:43 +0000" Type="Text">
+                    <Title>Suji meets Aash</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="73" Created="2013-06-01 07:37:49 +0000" Modified="2013-06-01 09:52:22 +0000" Type="Text">
+                    <Title>Aash still feels like something is missing</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" Created="2013-06-01 10:14:19 +0000" Modified="2013-06-01 10:48:24 +0000" Type="Text">
+                    <Title>Suji and his crew come to Tokyo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="92" Created="2013-06-01 13:13:52 +0000" Modified="2013-06-01 13:13:57 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="94" Created="2013-06-01 13:13:52 +0000" Modified="2013-06-01 13:13:52 +0000" Type="Text">
+                            <Title>Machida</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="93" Created="2013-06-01 13:13:52 +0000" Modified="2013-06-01 13:13:52 +0000" Type="Text">
+                            <Title>Sendagi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="28" Created="2013-05-31 15:29:05 +0000" Modified="2013-05-31 15:29:37 +0000" Type="Text">
+                    <Title>Edmonton</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" Created="2013-05-31 17:28:40 +0000" Modified="2013-06-01 01:52:27 +0000" Type="Text">
+                    <Title>[Song] Aash sings a capella</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -793,6 +1220,7 @@
             <Status ID="3">Revised Draft</Status>
             <Status ID="4">Final Draft</Status>
             <Status ID="5">Done</Status>
+            <Status ID="0">Flesh Out</Status>
         </StatusItems>
     </StatusSettings>
     <ProjectProperties/>

@@ -7,12 +7,11 @@
             <Title>Scene Heading</Title>
             <KeyEquivalent>s</KeyEquivalent>
             <CharacterFormat>
-                <Font Name="Courier" Size="12"/>
+                <Font Name="Courier New" Size="12"/>
                 <UnderlineStyle>None</UnderlineStyle>
                 <AllCaps>Yes</AllCaps>
             </CharacterFormat>
             <ParagraphFormat>
-                <KeepWithNext>Yes</KeepWithNext>
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>2</SpaceBefore>
@@ -47,8 +46,6 @@
                     <Completion NewLineAfter="Yes">CONTINUOUS</Completion>
                     <Completion NewLineAfter="Yes">THE NEXT DAY</Completion>
                 </Completions>
-                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
-                <AutomaticallyAddPhrasesToProjectList>Yes</AutomaticallyAddPhrasesToProjectList>
                 <PhraseStartDelimiter>(. )</PhraseStartDelimiter>
                 <PhraseEndDelimiter>(-)</PhraseEndDelimiter>
             </AutoCompleteList>
@@ -81,12 +78,11 @@
             <Title>Character</Title>
             <KeyEquivalent>c</KeyEquivalent>
             <CharacterFormat>
-                <Font Name="Courier" Size="12"/>
+                <Font Name="Courier New" Size="12"/>
                 <UnderlineStyle>None</UnderlineStyle>
                 <AllCaps>Yes</AllCaps>
             </CharacterFormat>
             <ParagraphFormat>
-                <KeepWithNext>Yes</KeepWithNext>
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>1</SpaceBefore>
@@ -109,9 +105,7 @@
                     <Completion NewLineAfter="Yes">(CONT'D)</Completion>
                     <Completion NewLineAfter="Yes">(SUBTITLE)</Completion>
                 </Completions>
-                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
                 <ProjectListAutoCompleteBehavior>GoToNextLine</ProjectListAutoCompleteBehavior>
-                <AutomaticallyAddPhrasesToProjectList>Yes</AutomaticallyAddPhrasesToProjectList>
                 <PhraseEndDelimiter>(()</PhraseEndDelimiter>
             </AutoCompleteList>
         </Element>
