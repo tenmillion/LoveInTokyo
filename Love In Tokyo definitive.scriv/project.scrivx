@@ -920,13 +920,29 @@
                                         <TextMode>Script</TextMode>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="107" Created="2013-06-01 15:43:36 +0000" Modified="2013-06-02 02:08:55 +0000" Type="Text">
+                                            <Title>Script</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CompileAsIs>Yes</CompileAsIs>
+                                                <FileExtension>rtf</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="76" Created="2013-06-01 09:18:34 +0000" Modified="2013-06-01 15:05:03 +0000" Type="Folder">
+                        <BinderItem ID="76" Created="2013-06-01 09:18:34 +0000" Modified="2013-06-02 02:24:46 +0000" Type="Folder">
                             <Title>Outro</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -956,19 +972,6 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
-                        </BinderItem>
-                        <BinderItem ID="107" Created="2013-06-01 15:43:36 +0000" Modified="2013-06-02 02:08:55 +0000" Type="Text">
-                            <Title>Script</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <CompileAsIs>Yes</CompileAsIs>
-                                <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextMode>Script</TextMode>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
