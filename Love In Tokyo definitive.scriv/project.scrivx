@@ -732,10 +732,11 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="90" Created="2013-06-01 11:42:15 +0000" Modified="2013-06-01 11:58:47 +0000" Type="Text">
+                                <BinderItem ID="90" Created="2013-06-01 11:42:15 +0000" Modified="2013-06-02 02:13:00 +0000" Type="Text">
                                     <Title>Suji and Aash almost meet, but don't</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
